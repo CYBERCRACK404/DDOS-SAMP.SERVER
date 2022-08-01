@@ -55,9 +55,11 @@ print(f"""\033[96m    ) (       (         )
  )\()|()/((  (()/(   )\()) 
 ((_)\ /(_))\  /(_)) ((_)\  
  _((_|_))((_)(_))   __((_) 
-|_  /|_ _| __| |    \ \/ / 
- / /  | || _|| |__   >  <  
-/___||___|___|____| /_/\_\ 
+     CYBER CRACK 404
+   JANGAN DI SALAH GUNAKAN!!
+ KHUSUS UNTUK BANTAI OTAK DONATE 
+
+JANGAN DI GUNAKAN UNTUK self happiness!!
  
 ==========================
 
