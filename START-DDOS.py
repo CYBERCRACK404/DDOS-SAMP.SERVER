@@ -70,7 +70,7 @@ print(f"""\033[96m    ) (       (         )
 
 dick =str(input("\033[97m[!] Z1 | Methods » \033[91m"))
 ip =str(input("\033[97m[!] Z1 | Ip » \033[91m"))
-port SERVER =int(input("\033[97m[!] Z1 | Port » \033[91m"))
+port =int(input("\033[97m[!] Z1 | Port » \033[91m"))
 times =int(input("\033[97m[!] Z1 | Packets » \033[91m"))
 threads =int(input("\033[97m[!] Z1 | Threads » \033[91m"))
 
