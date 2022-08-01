@@ -50,22 +50,23 @@ else:
 	print("\033[97m[!] Password \033[91mWrong \033[97m!!!")
 	time.sleep(999999)
 os.system("clear")
-print(f"""\033[96m    ) (       (         )  
- ( /( )\ )    )\ )   ( /(  
- )\()|()/((  (()/(   )\()) 
-((_)\ /(_))\  /(_)) ((_)\  
- _((_|_))((_)(_))   __((_) 
-     CYBER CRACK 404
-   JANGAN DI SALAH GUNAKAN!!
- KHUSUS UNTUK BANTAI OTAK DONATE 
+print(f"""\033[96m    
 
-JANGAN DI GUNAKAN UNTUK self happiness!!
+==============================================================================
+                            
+                            *CYBER CRACK 404*
+
+                       JANGAN DI SALAH GUNAKAN!!
+
+                     KHUSUS UNTUK SERVER OTAK DONATE 
+
+             JANGAN DI GUNAKAN UNTUK KESENANGAN DIRI SENDIRI!!
  
-==========================
+==============================================================================
 
 \033[97m [!] Methods : \033[95mUDP | TCP
-\033[97m [!] Discord : \033[95mNO INFORMATION
-\033[97m [!] Team : \033[95m?
+\033[97m [!] Discord : \033[95mNO DISCORD CC-TEAM
+\033[97m [!] Team : \033[95mCYBER CRACK 404
 
 \033[96m==========================
 """)
