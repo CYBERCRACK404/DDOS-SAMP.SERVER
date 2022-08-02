@@ -72,10 +72,10 @@ print(f"""\033[96m
 """)
 
 dick =str(input("\033[97m[!] UPD|TCP | Methods » \033[91m"))
-ip =str(input("\033[97m[!] server | Ip » \033[91m"))
-port =int(input("\033[97m[!] Server | Port » \033[91m"))
-times =int(input("\033[97m[!] Berapa | Packets » \033[91m"))
-threads =int(input("\033[97m[!] Berapa | Threads » \033[91m"))
+ip =str(input("\033[97m[!] SERVER | Ip » \033[91m"))
+port =int(input("\033[97m[!] SERVER | Port » \033[91m"))
+times =int(input("\033[97m[!]  | Packets » \033[91m"))
+threads =int(input("\033[97m[!]  | Threads » \033[91m"))
 
 def udp():
 	data = os.urandom(65500)
